@@ -22,6 +22,7 @@ validPlants = [
 ]
 ```
 
+
 **object `growthStages`**
 ```js
 growthStages = {}
@@ -41,7 +42,7 @@ growthStages = {
     ingameName: "<customPlantName>",
     stage_0: "<originalBlockName>",
     stage_1 onwards: "<nextStageBlockName>",
-    timeTakenPerStage: "<timeTaken>"
+    timeTakenPerStage: <timeTaken>
   }
 }
 ```
