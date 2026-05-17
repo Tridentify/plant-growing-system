@@ -7,7 +7,7 @@ Paste the code from src/minified.js or src/unminified.js into *World Code*.
 ## --- Usage ---
 There are multiple variables where you can configure settings, like the valid plants, growth stages and harvest types.
 
-**array `validPlants`**
+### array `validPlants`
 ```js
 validPlants = []
 ```
@@ -23,7 +23,8 @@ validPlants = [
 ```
 
 
-**object `growthStages`**
+
+### object `growthStages`
 ```js
 growthStages = {}
 ```
